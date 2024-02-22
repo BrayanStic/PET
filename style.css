@@ -41,7 +41,9 @@ header{
   }
 
   .menuP{
-    color:rgb(207, 184, 127);
+    color:white;
+    background-color:rgb(207, 184, 127);
+    border-radius:50px;
   }
   
   header nav a:hover{
